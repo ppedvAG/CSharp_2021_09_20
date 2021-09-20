@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\M003_02_Kontrollstrukturen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\M003_02_Kontrollstrukturen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\M003_02_Kontrollstrukturen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\M003_02_Kontrollstrukturen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\bin\Debug\net5.0\M003_02_Kontrollstrukturen.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\bin\Debug\net5.0\M003_02_Kontrollstrukturen.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\bin\Debug\net5.0\M003_02_Kontrollstrukturen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\bin\Debug\net5.0\M003_02_Kontrollstrukturen.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\bin\Debug\net5.0\M003_02_Kontrollstrukturen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\bin\Debug\net5.0\ref\M003_02_Kontrollstrukturen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\bin\Debug\net5.0\M003_02_Kontrollstrukturen.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\M003_02_Kontrollstrukturen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\ref\M003_02_Kontrollstrukturen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\M003_02_Kontrollstrukturen.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_02_Kontrollstrukturen\obj\Debug\net5.0\M003_02_Kontrollstrukturen.genruntimeconfig.cache

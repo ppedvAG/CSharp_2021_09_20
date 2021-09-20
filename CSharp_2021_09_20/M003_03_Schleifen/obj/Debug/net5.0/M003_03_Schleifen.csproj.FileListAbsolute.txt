@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\bin\Debug\net5.0\M003_03_Schleifen.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\bin\Debug\net5.0\M003_03_Schleifen.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\bin\Debug\net5.0\M003_03_Schleifen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\bin\Debug\net5.0\M003_03_Schleifen.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\bin\Debug\net5.0\M003_03_Schleifen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\bin\Debug\net5.0\ref\M003_03_Schleifen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\bin\Debug\net5.0\M003_03_Schleifen.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\ref\M003_03_Schleifen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.genruntimeconfig.cache

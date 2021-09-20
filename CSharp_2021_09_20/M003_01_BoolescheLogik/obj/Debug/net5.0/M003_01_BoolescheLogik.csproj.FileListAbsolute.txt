@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\bin\Debug\net5.0\M003_01_BoolescheLogik.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\bin\Debug\net5.0\M003_01_BoolescheLogik.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\bin\Debug\net5.0\M003_01_BoolescheLogik.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\bin\Debug\net5.0\M003_01_BoolescheLogik.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\bin\Debug\net5.0\M003_01_BoolescheLogik.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\bin\Debug\net5.0\ref\M003_01_BoolescheLogik.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\bin\Debug\net5.0\M003_01_BoolescheLogik.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\ref\M003_01_BoolescheLogik.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_01_BoolescheLogik\obj\Debug\net5.0\M003_01_BoolescheLogik.csproj.AssemblyReference.cache

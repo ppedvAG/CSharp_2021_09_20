@@ -120,13 +120,18 @@ namespace Modul002_01_Datentypen
             }
             else
                 Console.WriteLine("Variable abc ist (null)");
+            #endregion
 
 
 
+            #region Native .NET Framework Datentypen vs. C# - Datentypen
+            //C# Tadtentyp 
+            int def = 123;
+
+            Int32 int32 = 456; 
 
 
             #endregion
-
         }
 
 

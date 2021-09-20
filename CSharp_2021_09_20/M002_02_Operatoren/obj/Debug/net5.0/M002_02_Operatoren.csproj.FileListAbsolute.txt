@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\bin\Debug\net5.0\ref\M002_02_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\bin\Debug\net5.0\M002_02_Operatoren.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\ref\M002_02_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_02_Operatoren\obj\Debug\net5.0\M002_02_Operatoren.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\bin\Debug\net5.0\M002_03_ParsenCasting.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\bin\Debug\net5.0\M002_03_ParsenCasting.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\bin\Debug\net5.0\M002_03_ParsenCasting.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\bin\Debug\net5.0\M002_03_ParsenCasting.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\bin\Debug\net5.0\M002_03_ParsenCasting.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\bin\Debug\net5.0\ref\M002_03_ParsenCasting.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\bin\Debug\net5.0\M002_03_ParsenCasting.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\ref\M002_03_ParsenCasting.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M002_03_ParsenCasting\obj\Debug\net5.0\M002_03_ParsenCasting.genruntimeconfig.cache

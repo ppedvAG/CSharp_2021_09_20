@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M003_03_Schleifen/1.0.0": {
+        "runtime": {
+          "M003_03_Schleifen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M003_03_Schleifen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
