@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\bin\Debug\net5.0\ref\M001_01_HelloWorld.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\bin\Debug\net5.0\M001_01_HelloWorld.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\ref\M001_01_HelloWorld.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_HelloWorld\obj\Debug\net5.0\M001_01_HelloWorld.genruntimeconfig.cache

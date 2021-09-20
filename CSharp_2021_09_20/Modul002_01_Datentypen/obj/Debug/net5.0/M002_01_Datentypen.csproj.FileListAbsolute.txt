@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\bin\Debug\net5.0\M002_01_Datentypen.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\bin\Debug\net5.0\M002_01_Datentypen.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\bin\Debug\net5.0\M002_01_Datentypen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\bin\Debug\net5.0\M002_01_Datentypen.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\bin\Debug\net5.0\M002_01_Datentypen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\bin\Debug\net5.0\ref\M002_01_Datentypen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\bin\Debug\net5.0\M002_01_Datentypen.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\M002_01_Datentypen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\M002_01_Datentypen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\M002_01_Datentypen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\M002_01_Datentypen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\M002_01_Datentypen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\ref\M002_01_Datentypen.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\M002_01_Datentypen.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Modul002_01_Datentypen\obj\Debug\net5.0\M002_01_Datentypen.genruntimeconfig.cache
