@@ -20,6 +20,7 @@ namespace M003_02_Kontrollstrukturen
                                                     // akkuStand > 20  
                                                     // akkuStand <= 100
             {
+                
                 akkuStandMessage = "Akku ist in Ordnung";
             }
             else if (akkuStand > 0 && akkuStand <= 20 && akkuInLoading==false) //kü
@@ -75,6 +76,7 @@ namespace M003_02_Kontrollstrukturen
             switch (obst)
             {
                 case "Kirsche":
+                    //
                     farbe = "rot";
                     break;
                 case "Banane": //wenn obst == "Banane" ->  die kommende Anweisung ausfuehren

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\bin\Debug\net5.0\M004_01_Arrays.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\bin\Debug\net5.0\M004_01_Arrays.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\bin\Debug\net5.0\M004_01_Arrays.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\bin\Debug\net5.0\M004_01_Arrays.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\bin\Debug\net5.0\M004_01_Arrays.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\bin\Debug\net5.0\ref\M004_01_Arrays.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\bin\Debug\net5.0\M004_01_Arrays.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\ref\M004_01_Arrays.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_01_Arrays\obj\Debug\net5.0\M004_01_Arrays.genruntimeconfig.cache

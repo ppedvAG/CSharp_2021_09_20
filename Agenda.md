@@ -35,18 +35,25 @@ Optinaler Tag: 27.09.2021
 - [ ] Fragen [Link]
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
-- [ ] Arrays [Link]
-- [ ] Enums [Link]
-- [ ] for-Schleife [Link]
-- [ ] foreach-Schleife [Link]
-- [ ] while-Schleifen [Link]
-- [ ] do-while-Schleife [Link]
-- [ ] Fragen [Link]
+- [x] Arrays [Link]
+- [x] Enums [Link]
+- [x] for-Schleife [Link]
+- [x] foreach-Schleife [Link]
+- [x] while-Schleifen [Link]
+- [x] do-while-Schleife [Link]
+- [x] Fragen [Link]
 
 ## M005 | STATISCHE MEMBER
 - [ ] Funktionen [Link]
 - [ ] Eigenschaften [Link]
 - [ ] Fragen [Link]
+
+## M005b| Parameter Varianten 
+- [ ] params 
+## M005b| Referenz Operationen
+- [ ] out [Link]
+- [ ] ref [Link]
+- [ ] in
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
 - [ ] Namespaces [Link]
@@ -63,10 +70,7 @@ Optinaler Tag: 27.09.2021
 - [ ] Garbage Collection
 - [ ] Überladung [Link]
 - [ ] optionale Parameter [Link]
-- [ ] out [Link]
-- [ ] params [Link]
-- [ ] ref [Link]
-- [ ] in
+
 - [ ] Fragen [Link]
 ## M008 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
 - [ ] Vererbung [Link]
@@ -95,6 +99,13 @@ Optinaler Tag: 27.09.2021
 - [ ] Interface ab C# 8 [Link]
 - [ ] Fragen [Link]
 
+## M013 | FEHLERBEHANDLUNG
+- [ ] Fehlertypen
+- [ ] try-catch [Link]
+- [ ] Debugger 
+- [ ] UnitTests [Link]
+
+
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
 - [ ] Listen [Link]
 - [ ] Dictionary [Link]
@@ -104,11 +115,7 @@ Optinaler Tag: 27.09.2021
 - [ ] Tuple [Link]
 - [ ] Fragen [Link]
 
-## M013 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch [Link]
-- [ ] Debugger 
-- [ ] UnitTests [Link]
+
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
 - [ ] Dateien lesen/schreiben [Link]
@@ -126,7 +133,7 @@ Optinaler Tag: 27.09.2021
 
 
 Sprach-Entwicklung von C-Sharp
-(Ab Mittwoch/Donnerstag) 
+(Ab Donnerstag) 
 - [ ] C# 7.0 -> 9.0 
 - [ ] Solid 
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
@@ -152,18 +159,13 @@ Sprach-Entwicklung von C-Sharp
 
 
 
+Fragen:
+[ ] BitFelder via Schleife auslesen oder intialisieren 
 
 
 
 
 
 
-## M00Zusatz | DELEGATES und EVENTS (optional)
-- [ ] Action [Link](Uebungen/Modul013_01_Delegates/Action.cs) 
-- [ ] Predicate [Link](Uebungen/Modul013_01_Delegates/Predicate.cs) 
-- [ ] Func [Link](Uebungen/Modul013_01_Delegates/Func.cs) 
-- [ ] anonyme Methoden [Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs) 
-- [ ] EventHandler [Link](Uebungen/Modul013_02_Events/Program.cs) 
-- [ ] Timer [Link](Uebungen/Modul013_03_Timer/Program.cs) 
 
 

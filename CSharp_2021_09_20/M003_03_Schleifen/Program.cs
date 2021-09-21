@@ -9,7 +9,8 @@ namespace M003_03_Schleifen
             Console.WriteLine("inkrementale for-Schleife");
             Console.WriteLine("Ausgabe 1");
             
-            for ( int i = 0; i < 10; i++)
+            //Parallel.For -> Wird im Kapitel Task verwendet 
+            for ( int i = 0; i < 10; i+=2)
                 Console.WriteLine(i); //0, 1, 2, 3, 4, 5, 6, 7, 8, 9
             
             Console.WriteLine("Ausgabe 2");
@@ -21,7 +22,7 @@ namespace M003_03_Schleifen
 
 
             Console.WriteLine("Schleife mit Array");
-            int[] zahlen = new int[] {  };
+            int[] zahlen = new int[] { 3,6,9,12,15 };
             Console.WriteLine("Ausgaben der Primzahlen: ");
             //Gehe das Array komplett durch
             for (int index = 0; index < zahlen.Length; ++index)
@@ -33,7 +34,7 @@ namespace M003_03_Schleifen
             // IndexOutOfRangeException
 
             Console.WriteLine("foreach Schleife");
-            foreach (int currentIntegerValue in zahlen)
+            foreach (int currentIntegerValue in zahlen) //verkettete Liste -> next
             {
                 //In einer foreach Schleife erhält man keine IndexOutOfRangeException
                 Console.WriteLine(currentIntegerValue);
@@ -47,6 +48,8 @@ namespace M003_03_Schleifen
             {
                 Console.WriteLine(n);  //Solange n kleiner als 5 ist, komme ich in den While-Body
                 n++;
+
+                //break->Schleie vorzeitig verlassen
             }
 
 
@@ -54,7 +57,7 @@ namespace M003_03_Schleifen
             int counter = 0;
 
 
-            while (endlosschleife)
+            while (endlosschleife) //Wenn Condition -> True ist, dann wird die Schleife-Body ausgeführt
             {
                 Console.WriteLine(counter);
 
@@ -104,13 +107,13 @@ namespace M003_03_Schleifen
 
             for (int i = 1; i < 1000; i++)
             {
-                if (i % 7 != 0)
+                if (i % 7 == 0) // Ist die aktuelle Zahl eine 7er Zahl
+                {
+                    //7er Zahlen werden hier ausgegeben 
+                    Console.WriteLine($"{i}");
+                }
+                else
                     continue; //gehe einfach in den nächsten Schleifendurchlauf
-
-
-                //7er Zahlen werden hier ausgegeben 
-                Console.WriteLine($"{i}");
-
             }
 
             #endregion
