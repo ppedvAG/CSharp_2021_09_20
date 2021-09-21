@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\bin\Debug\net5.0\M006_01_NamespacesClasses.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\bin\Debug\net5.0\M006_01_NamespacesClasses.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\bin\Debug\net5.0\M006_01_NamespacesClasses.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\bin\Debug\net5.0\M006_01_NamespacesClasses.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\bin\Debug\net5.0\M006_01_NamespacesClasses.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\bin\Debug\net5.0\ref\M006_01_NamespacesClasses.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\bin\Debug\net5.0\M006_01_NamespacesClasses.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\ref\M006_01_NamespacesClasses.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.genruntimeconfig.cache

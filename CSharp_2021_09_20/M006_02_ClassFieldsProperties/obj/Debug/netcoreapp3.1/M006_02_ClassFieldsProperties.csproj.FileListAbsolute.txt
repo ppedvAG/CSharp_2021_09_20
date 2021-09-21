@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\netcoreapp3.1\M006_02_ClassFieldsProperties.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M006_02_ClassFieldsProperties/1.0.0": {
+        "runtime": {
+          "M006_02_ClassFieldsProperties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M006_02_ClassFieldsProperties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

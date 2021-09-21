@@ -44,16 +44,16 @@ Optinaler Tag: 27.09.2021
 - [x] Fragen [Link]
 
 ## M005 | STATISCHE MEMBER
-- [ ] Funktionen [Link]
+- [x] Funktionen [Link]
 - [ ] Eigenschaften [Link]
 - [ ] Fragen [Link]
 
 ## M005b| Parameter Varianten 
-- [ ] params 
+- [x] params 
 ## M005b| Referenz Operationen
-- [ ] out [Link]
-- [ ] ref [Link]
-- [ ] in
+- [x] out [Link]
+- [x] ref [Link]
+- [x] in
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
 - [ ] Namespaces [Link]
