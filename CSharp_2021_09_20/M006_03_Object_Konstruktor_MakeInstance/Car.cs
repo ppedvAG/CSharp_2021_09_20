@@ -12,7 +12,7 @@ namespace M006_03_Object_Konstruktor_MakeInstance
         //{
 
         //}
-        public string Brand { get; set; } 
+        public string Brand { get; set; }
         public string Model { get; set; }
         public int ConstructionYear { get; set; }
     }
@@ -20,21 +20,23 @@ namespace M006_03_Object_Konstruktor_MakeInstance
     public class Car2 //Klass mit einem Konstruktor 
     {
         private string _brand;
-        public string Brand 
+        public string Brand
         {
             get => _brand;
             set
             {
-                if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException();
+                //if (string.IsNullOrEmpty(value))
+                //    throw new ArgumentException();
 
                 _brand = value;
             }
-        } 
+        }
         public string Model { get; set; }
         public int? ConstructionYear { get; set; }
 
         public int[] ZahlenArray { get; set; }
+
+        public string Farbe { get; set; }
 
         //ctor + tab + tab
         public Car2() //Default-Konstruktor -> Stellt einen Default-Stand für ein Object 
@@ -56,6 +58,29 @@ namespace M006_03_Object_Konstruktor_MakeInstance
             ConstructionYear = year;
 
             ZahlenArray = initArray;
+
+            if (string.IsNullOrEmpty(Farbe))
+                Farbe = "white";
+        }
+        public Car2(string brand, string model, int year, int[] initArray, string farbe)
+            : this(brand, model, year, initArray)
+        {
+            //Redudanz ist nicht gut
+            //Brand = brand; //Brand->Setter = brand
+            //Model = model;
+            //ConstructionYear = year;
+
+            //ZahlenArray = initArray;
+            Farbe = farbe; 
+        }
+
+        // Wie kann ich hier Debuggen -> Frage 
+        ~Car2() //Dekonsrtuktor -> Wrd im Hintergrund von Garbage Collection aufgerufen
+        {
+            Brand = null;
+            Model = null;
+            ConstructionYear = null;
+            ZahlenArray = null;
         }
     }
 }
