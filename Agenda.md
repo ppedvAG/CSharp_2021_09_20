@@ -135,7 +135,7 @@ Optinaler Tag: 27.09.2021
 Sprach-Entwicklung von C-Sharp
 (Ab Donnerstag) 
 - [ ] C# 7.0 -> 9.0 
-- [ ] Solid 
+- [ ] Solid (Labs)
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 - [ ] Threading
@@ -160,7 +160,7 @@ Sprach-Entwicklung von C-Sharp
 
 
 Fragen:
-[ ] BitFelder via Schleife auslesen oder intialisieren 
+[ ] BitFelder via Schleife auslesen oder intialisieren -> siehe Enum-Beispiele
 
 
 

@@ -8,6 +8,14 @@ namespace M004_02_Enums
 
     enum AnredeFormen {  Herr, Frau, Dr, Prof, Dipl, Magister}
 
+    public enum Car
+    {
+        BMW,
+        Mercedes,
+        Opel,
+        Volkswagen,
+        Ford
+    }
 
     [Flags] //Bitfelder 
     enum Fruechte 
@@ -83,7 +91,12 @@ namespace M004_02_Enums
             Console.WriteLine($"Selected Value soll den Wert 5 enthalten - Ausgabe SelectedValue {selectedValue}");
             #endregion
 
-
+            #region Enum Durchlaufen
+            foreach (Car suit in (Car[])Enum.GetValues(typeof(Car)))
+            {
+                Console.WriteLine(suit);
+            }
+            #endregion
 
             #endregion
 
@@ -100,10 +113,20 @@ namespace M004_02_Enums
             //https://docs.microsoft.com/de-de/dotnet/api/system.enum.hasflag?view=net-5.0 ->google: enums with flags ODER enum bitflags
             bool IsOrangeImFruchtkopr = fruchtkorp.HasFlag(Fruechte.Orange);
 
-            
+
+
+            Console.WriteLine("Früchte im Korb");
+            foreach (Fruechte fruit in (Fruechte[])Enum.GetValues(typeof(Fruechte)))
+            {
+                 if (fruchtkorp.HasFlag(fruit) && fruit != Fruechte.Keines)
+                    Console.WriteLine(fruit);
+            }
+
             #endregion
 
             //BitFelder - Schleifen-Methode
+
+
         }
     }
 }
