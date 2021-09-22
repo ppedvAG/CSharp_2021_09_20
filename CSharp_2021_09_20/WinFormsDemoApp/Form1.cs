@@ -25,13 +25,14 @@ namespace WinFormsDemoApp
             MessageBox.Show("Menü Eintrag wurde geklickt");
         }
 
-        private async Task button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             //label1.Text = "Otto Walkes ist lustig";
 
             using (HttpClient client = new HttpClient())
             {
-                await client.GetAsync("https:localhost:5001/PersonService");
+                Task task =  client.GetAsync("https:localhost:5001/PersonService");
+                task.Wait();
             } // HttpClient wird hier bereinigt 
         }
     }

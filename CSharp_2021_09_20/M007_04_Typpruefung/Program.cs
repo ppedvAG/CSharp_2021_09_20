@@ -42,6 +42,7 @@ namespace M007_04_Typpruefung
             #endregion
 
 
+            #region Polymorhpie + Prüfung von Typen
             List<Lebewesen> listeLebewesen = new List<Lebewesen>();
             listeLebewesen.Add(lebewesen);
             listeLebewesen.Add(mensch);
@@ -92,9 +93,6 @@ namespace M007_04_Typpruefung
                     {
                         Console.WriteLine("Mensch ist ein Lebewesen, weil Mensch von Lebewesen erbt");
                     }
-
-
-
                 }
 
                 //Ist IDisposeable implementiert worden :-) 
@@ -104,6 +102,38 @@ namespace M007_04_Typpruefung
                 }
 
                 #endregion
+
+                #region Typprüfung innerhalb eines Switch-Statements
+                MethodeWithSwitch(currentLebewesen);
+                #endregion
+            }
+
+            #endregion
+
+
+
+
+
+        }
+
+
+        static void MethodeWithSwitch(Lebewesen lebewesen)
+        {
+            switch (lebewesen)
+            {
+                case Freiberufler freiberuflerObj when freiberuflerObj.Auftraggeber == "ppedv":
+                    Console.WriteLine($"{freiberuflerObj.Auftraggeber}");
+                    break;
+
+                case Mitarbeiter mitarbeiter when mitarbeiter.Arbeitgeber == "ppedv":
+                    break;
+                case Mensch:
+                    Console.WriteLine("Ist ein Mensch");
+                    break;
+
+                default:
+                    Console.WriteLine("Objekt nicht gefunden");
+                    break;
             }
         }
     }

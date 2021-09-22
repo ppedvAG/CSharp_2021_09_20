@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_04_Typpruefung\obj\De
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_04_Typpruefung\obj\Debug\net5.0\ref\M007_04_Typpruefung.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_04_Typpruefung\obj\Debug\net5.0\M007_04_Typpruefung.pdb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_04_Typpruefung\obj\Debug\net5.0\M007_04_Typpruefung.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_04_Typpruefung\obj\Debug\net5.0\M007_04_Typpruefung.csproj.AssemblyReference.cache

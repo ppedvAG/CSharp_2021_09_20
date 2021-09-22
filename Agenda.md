@@ -56,41 +56,41 @@ Optinaler Tag: 27.09.2021
 - [x] in
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
-- [ ] Namespaces [Link]
-- [ ] Klassen [Link]
-- [ ] Felder [Link]
-- [ ] Eigenschaften [Link]
-- [ ] Kapselungen [Link]
-- [ ] partielle Klassen und Methoden [Link]
+- [x] Namespaces [Link]
+- [x] Klassen [Link]
+- [x] Felder [Link]
+- [x] Eigenschaften [Link]
+- [x] Kapselungen [Link]
+- [x] partielle Klassen und Methoden [Link]
 - [ ] Fragen [Link]
 
 ## M007 | OOP - OBJEKTE, METHODEN und PARAMETER
-- [ ] Objekte [Link]
-- [ ] Konstruktor und Destruktor [Link]
+- [x] Objekte [Link]
+- [x] Konstruktor und Destruktor [Link]
 - [ ] Garbage Collection
-- [ ] Überladung [Link]
+- [x] Überladung [Link]
 - [ ] optionale Parameter [Link]
 
 - [ ] Fragen [Link]
 ## M008 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
-- [ ] Vererbung [Link]
-- [ ] base 
-- [ ] Zugriffsmodifier [Link]
+- [x] Vererbung [Link]
+- [x] base 
+- [x] Zugriffsmodifier [Link]
 - [ ] Fragen [Link]
 
 ## M009 | OOP - POLYMORPHISMUS VIRTUAL
-- [ ] Polymorphismus
-- [ ] virtuelle Member/Properties [Link]
-- [ ] Member ausblenden [Link]
-- [ ] Überschreibungen verhindern [Link]
+- [x] Polymorphismus
+- [x] virtuelle Member/Properties [Link]
+- [x] virtuelle Member ausblenden (override funktioniert dann nicht) -> new [Link]
+- [x] Vererben verhindern -> sealed[Link]
 - [ ] Fragen [Link]
 
 ## M010 | OOP - POLYMORPHISMUS ABSTRACT
-- [ ] abstrakte Member, Properties  und Klassen [Link]
-- [ ] Typtest "GetType()" [Link]
-- [ ] Typtest "typeof" [Link]
-- [ ] Typtest "is" [Link]
-- [ ] Typ-Pattern Matching mit switch
+- [x] abstrakte Member, Properties  und Klassen [Link]
+- [x] Typtest "GetType()" [Link]
+- [x] Typtest "typeof" [Link]
+- [x] Typtest "is" [Link]
+- [x] Typ-Pattern Matching mit switch
 - [ ] Fragen [Link]
 
 
@@ -99,22 +99,15 @@ Optinaler Tag: 27.09.2021
 - [ ] Interface ab C# 8 [Link]
 - [ ] Fragen [Link]
 
-## M013 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch [Link]
-- [ ] Debugger 
-- [ ] UnitTests [Link]
-
-
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
-- [ ] Listen [Link]
-- [ ] Dictionary [Link]
-- [ ] Stack [Link]
-- [ ] Queue [Link]
-- [ ] Hashtable [Link]
-- [ ] Tuple [Link]
+- [x] Listen [Link]
+- [x] Dictionary [Link]
+- [x] Stack [Link]
+- [x] Queue [Link]
+- [x] Hashtable [Link]
+- [x] Tuple [Link]
 - [ ] Fragen [Link]
-
+- [ ] Linq / Lambda 
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
@@ -124,6 +117,19 @@ Optinaler Tag: 27.09.2021
 - [ ] XML [Link]
 - [ ] CSV -> [Link]
 - [ ] Fragen [Link]
+
+
+## M013 | FEHLERBEHANDLUNG
+- [ ] Fehlertypen
+- [ ] try-catch [Link]
+- [ ] Debugger 
+- [ ] UnitTests [Link]
+
+
+
+
+
+
 
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
@@ -136,7 +142,7 @@ Sprach-Entwicklung von C-Sharp
 (Ab Donnerstag) 
 - [ ] C# 7.0 -> 9.0 
 - [ ] Solid (Labs)
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 - [ ] Threading
 - [ ] TPL
@@ -146,8 +152,7 @@ Sprach-Entwicklung von C-Sharp
 
 - [ ] Reflections 
 - [ ] Plugin-Pattern 
-- [ ] Serialisierung
-- [ ] Linq / Lambda 
+
 - [ ] Erweiterungsmethoden  
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen 

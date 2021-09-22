@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M009_2_LinqLambda/1.0.0": {
+        "runtime": {
+          "M009_2_LinqLambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M009_2_LinqLambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
