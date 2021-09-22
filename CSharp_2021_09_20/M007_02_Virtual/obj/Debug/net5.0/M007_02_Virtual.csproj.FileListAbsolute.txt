@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\bin\Debug\net5.0\M007_02_Virtual.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\bin\Debug\net5.0\M007_02_Virtual.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\bin\Debug\net5.0\M007_02_Virtual.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\bin\Debug\net5.0\M007_02_Virtual.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\bin\Debug\net5.0\M007_02_Virtual.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\bin\Debug\net5.0\ref\M007_02_Virtual.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\bin\Debug\net5.0\M007_02_Virtual.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\ref\M007_02_Virtual.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_02_Virtual\obj\Debug\net5.0\M007_02_Virtual.csproj.AssemblyReference.cache

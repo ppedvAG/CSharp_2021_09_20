@@ -25,9 +25,12 @@ namespace M004_02_Enums
         Kirsche = 2,
         Banane = 4,
         Apfel = 8,
-        Pflaume = 16,
-        Birne = 32
+        Pflaume = 16,//1
+        Birne = 32 //1
     }
+
+    //48-32 = 16-16 = 0
+    // 
 
     class Program
     {
@@ -90,6 +93,7 @@ namespace M004_02_Enums
             selectedValue = (int)myPCItem;
             Console.WriteLine($"Selected Value soll den Wert 5 enthalten - Ausgabe SelectedValue {selectedValue}");
             #endregion
+            Car car = Car.BMW;
 
             #region Enum Durchlaufen
             foreach (Car suit in (Car[])Enum.GetValues(typeof(Car)))
@@ -115,7 +119,7 @@ namespace M004_02_Enums
 
 
 
-            Console.WriteLine("Früchte im Korb");
+            Console.WriteLine("BEISPIEL: Früchte im Korb");
             foreach (Fruechte fruit in (Fruechte[])Enum.GetValues(typeof(Fruechte)))
             {
                  if (fruchtkorp.HasFlag(fruit) && fruit != Fruechte.Keines)

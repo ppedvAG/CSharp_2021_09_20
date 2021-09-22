@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\bin\Debug\net5.0\M007_01_Vererbung.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\bin\Debug\net5.0\M007_01_Vererbung.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\bin\Debug\net5.0\M007_01_Vererbung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\bin\Debug\net5.0\M007_01_Vererbung.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\bin\Debug\net5.0\M007_01_Vererbung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\bin\Debug\net5.0\ref\M007_01_Vererbung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\bin\Debug\net5.0\M007_01_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\ref\M007_01_Vererbung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_01_Vererbung\obj\Debug\net5.0\M007_01_Vererbung.genruntimeconfig.cache

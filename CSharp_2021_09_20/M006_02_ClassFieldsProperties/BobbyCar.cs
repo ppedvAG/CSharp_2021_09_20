@@ -8,8 +8,8 @@ namespace M006_02_ClassFieldsProperties
 {
     public class BobbyCar
     {
-        //Auto - Properties -> genrieren zur Laufzeit ihre eigene Field - Variable 
-        public string Marke { get; set; }
+        //Auto - Properties -> genrieren zur Laufzeit ihre eigene Back_Field - Variable 
+        public string Marke { get; private set; }
         public string Modell { get; set; }
     }
 

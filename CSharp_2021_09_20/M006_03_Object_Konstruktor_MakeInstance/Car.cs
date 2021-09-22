@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace M006_03_Object_Konstruktor_MakeInstance
 {
+    
     public class Car //Klasse ohne Konstruktor -> Warum kann ich trotzdem einen Konstruktor aufrufen? 
     {
         //public Car() -> wird quasi vom Kompilier hinzugefügt

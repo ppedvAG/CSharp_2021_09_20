@@ -21,7 +21,7 @@ namespace M006_02_ClassFieldsProperties
                 return _marke;
             }
 
-
+            // Marke = "BMW"; 
             //Setter mit Validierung
             set
             {
