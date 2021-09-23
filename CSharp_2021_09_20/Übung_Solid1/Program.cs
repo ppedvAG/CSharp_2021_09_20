@@ -51,11 +51,60 @@ namespace Übung_Solid1
 
     #endregion
 
+    #region Lösung 
+    //Lösung
+    #region Datenstruktur + Repository
+    public class Employee
+    {
+        public int Employee_Id { get; set; }
+        public string Employee_Name { get; set; }
+    }
 
 
 
 
 
+    public interface IRepository
+    {
+        bool InsertIntoEmployeeTable(Employee em);
+        //bool InsertIntoEmployeeTable(Employee[] ems);
+    }
+
+    public class EmployeeRepository : IRepository
+    {
+        public bool InsertIntoEmployeeTable(Employee em)
+        {
+            throw new NotImplementedException();
+        }
+    }
+    #endregion
+
+
+
+    #region Variante 1 
+    public abstract class ReportGeneratorBase
+    {
+        public abstract void GenerateReport(Employee em);
+    }
+
+    public class PDFReport : ReportGeneratorBase
+    {
+        public override void GenerateReport(Employee em)
+        {
+            //....
+        }
+    }
+
+    public class CRSReport : ReportGeneratorBase
+    {
+        public override void GenerateReport(Employee em)
+        {
+            //....
+        }
+    }
+
+    #endregion
+    #endregion
 
 
 
