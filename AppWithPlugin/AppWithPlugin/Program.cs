@@ -89,6 +89,9 @@ namespace AppWithPlugin
 
             //Absoluter Pfad zur Dll -> Geht eigentlich smarter (wenn ein DLLVerzeichnis Verwendet wird + Verzeichnisangabe in appsetting.json
             string pluginLocation = Path.GetFullPath(Path.Combine(root, relativePath.Replace('\\', Path.DirectorySeparatorChar)));
+            
+            
+            
             //Console.WriteLine($"Loading commands from: {pluginLocation}");
             PluginLoadContext loadContext = new PluginLoadContext(pluginLocation); //DLL von Plugin.
             return loadContext.LoadFromAssemblyName(new AssemblyName(Path.GetFileNameWithoutExtension(pluginLocation)));
