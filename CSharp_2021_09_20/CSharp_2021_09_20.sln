@@ -78,6 +78,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M010_03_Solid_Liskov_Substi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M010_03_Solid_Dependency_Inversion", "M010_03_Solid_Dependency_Inversion\M010_03_Solid_Dependency_Inversion.csproj", "{5CE689EE-32AD-4B41-8F65-FAE5AAE73F95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M010_05_SOLID_InterfaceSegregationPrincip", "M010_05_SOLID_InterfaceSegregationPrincip\M010_05_SOLID_InterfaceSegregationPrincip.csproj", "{8FBFAD41-6A67-4AD4-8F65-C702F2AB3E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M011_01_TaschenrechnerLib", "M011_01_TaschenrechnerLib\M011_01_TaschenrechnerLib.csproj", "{653257B3-09EC-42EB-8510-6D88AF6CFB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M011_01_TaschenrechnerConsole", "M011_01_TaschenrechnerConsole\M011_01_TaschenrechnerConsole.csproj", "{F0B113F6-5E37-4023-BC6C-CB682B925EB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,6 +222,18 @@ Global
 		{5CE689EE-32AD-4B41-8F65-FAE5AAE73F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE689EE-32AD-4B41-8F65-FAE5AAE73F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE689EE-32AD-4B41-8F65-FAE5AAE73F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBFAD41-6A67-4AD4-8F65-C702F2AB3E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBFAD41-6A67-4AD4-8F65-C702F2AB3E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBFAD41-6A67-4AD4-8F65-C702F2AB3E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBFAD41-6A67-4AD4-8F65-C702F2AB3E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653257B3-09EC-42EB-8510-6D88AF6CFB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653257B3-09EC-42EB-8510-6D88AF6CFB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653257B3-09EC-42EB-8510-6D88AF6CFB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653257B3-09EC-42EB-8510-6D88AF6CFB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B113F6-5E37-4023-BC6C-CB682B925EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B113F6-5E37-4023-BC6C-CB682B925EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B113F6-5E37-4023-BC6C-CB682B925EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B113F6-5E37-4023-BC6C-CB682B925EB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

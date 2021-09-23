@@ -69,7 +69,7 @@ Optinaler Tag: 27.09.2021
 - [x] Konstruktor und Destruktor [Link]
 - [ ] Garbage Collection
 - [x] Überladung [Link]
-- [ ] optionale Parameter [Link]
+- [x] optionale Parameter [Link]
 
 - [ ] Fragen [Link]
 ## M008 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
@@ -95,9 +95,9 @@ Optinaler Tag: 27.09.2021
 
 
 ## M011 | INTERFACES
-- [ ] Interface [Link]
-- [ ] Interface ab C# 8 [Link]
-- [ ] Fragen [Link]
+- [x] Interface [Link]
+- [x] Interface ab C# 8 [Link]
+- [x] Fragen [Link]
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
 - [x] Listen [Link]
@@ -107,23 +107,10 @@ Optinaler Tag: 27.09.2021
 - [x] Hashtable [Link]
 - [x] Tuple [Link]
 - [ ] Fragen [Link]
-- [ ] Linq / Lambda 
+- [x] Linq / Lambda 
 
 
-## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [ ] Dateien lesen/schreiben [Link]
-- [ ] Serialisierung Binär 
-- [ ] JSON [Link]
-- [ ] XML [Link]
-- [ ] CSV -> [Link]
-- [ ] Fragen [Link]
 
-
-## M013 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch [Link]
-- [ ] Debugger 
-- [ ] UnitTests [Link]
 
 
 
@@ -141,21 +128,37 @@ Optinaler Tag: 27.09.2021
 Sprach-Entwicklung von C-Sharp
 (Ab Donnerstag) 
 - [ ] C# 7.0 -> 9.0 
-- [ ] Solid (Labs)
+- [x] Solid (Labs)
 - [x] Benchmark StringBuilder vs +-Operator (bei strings)
+- [ ] Reflections 
+- [ ] Plugin-Pattern 
 
+[Freitag]
+4-5 Stunden: 
 - [ ] Threading
 - [ ] TPL
 - [ ] async / await
 - [ ] Generics
 - [ ] Events / EventHandler/ Actions / Func
 
-- [ ] Reflections 
-- [ ] Plugin-Pattern 
+## M015 | DATEIEN und VERZEICHNISSE (optional) 45 Minuten
+- [ ] Dateien lesen/schreiben [Link]
+- [ ] Serialisierung Binär 
+- [ ] JSON [Link]
+- [ ] XML [Link]
+- [ ] CSV -> [Link] - [ ] Erweiterungsmethoden  
+- [ ] Fragen [Link]
 
-- [ ] Erweiterungsmethoden  
-- [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen 
+
+## M013 | FEHLERBEHANDLUNG - 20 Minuten 
+- [ ] Fehlertypen
+- [ ] try-catch [Link]
+- [ ] Debugger 
+- [ ] UnitTests [Link]
+
+
+- [ ] Operatoren (20 Minuten )
+- [ ] Anonyme Typen + dynamische Typen (15)
 
 
 
@@ -165,7 +168,7 @@ Sprach-Entwicklung von C-Sharp
 
 
 Fragen:
-[ ] BitFelder via Schleife auslesen oder intialisieren -> siehe Enum-Beispiele
+[x] BitFelder via Schleife auslesen oder intialisieren -> siehe Enum-Beispiele
 
 
 
