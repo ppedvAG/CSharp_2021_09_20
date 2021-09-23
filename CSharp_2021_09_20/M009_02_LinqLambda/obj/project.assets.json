@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_02_LinqLambda\\M009_2_LinqLambda.csproj",
-      "projectName": "M009_2_LinqLambda",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_02_LinqLambda\\M009_2_LinqLambda.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_02_LinqLambda\\M009_02_LinqLambda.csproj",
+      "projectName": "M009_02_LinqLambda",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_02_LinqLambda\\M009_02_LinqLambda.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_02_LinqLambda\\obj\\",
       "projectStyle": "PackageReference",

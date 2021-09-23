@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\bin\Debug\net5.0\M008_01_Interfaces_CSharp8.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\bin\Debug\net5.0\M008_01_Interfaces_CSharp8.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\bin\Debug\net5.0\M008_01_Interfaces_CSharp8.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\bin\Debug\net5.0\M008_01_Interfaces_CSharp8.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\bin\Debug\net5.0\M008_01_Interfaces_CSharp8.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\bin\Debug\net5.0\ref\M008_01_Interfaces_CSharp8.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\bin\Debug\net5.0\M008_01_Interfaces_CSharp8.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\ref\M008_01_Interfaces_CSharp8.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces_CSharp8\obj\Debug\net5.0\M008_01_Interfaces_CSharp8.genruntimeconfig.cache

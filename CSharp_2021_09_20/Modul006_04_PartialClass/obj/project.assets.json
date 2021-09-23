@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Modul006_04_PartialClass\\Modul006_04_PartialClass.csproj",
-      "projectName": "Modul006_04_PartialClass",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Modul006_04_PartialClass\\Modul006_04_PartialClass.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Modul006_04_PartialClass\\M006_04_PartialClass.csproj",
+      "projectName": "M006_04_PartialClass",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Modul006_04_PartialClass\\M006_04_PartialClass.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Modul006_04_PartialClass\\obj\\",
       "projectStyle": "PackageReference",

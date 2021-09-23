@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_Collections_WeiterStukturen\\M009_1_Collections_WeiterStukturen.csproj",
-      "projectName": "M009_1_Collections_WeiterStukturen",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_Collections_WeiterStukturen\\M009_1_Collections_WeiterStukturen.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_Collections_WeiterStukturen\\M009_01_Collections_WeiterStukturen.csproj",
+      "projectName": "M009_01_Collections_WeiterStukturen",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_Collections_WeiterStukturen\\M009_01_Collections_WeiterStukturen.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M009_Collections_WeiterStukturen\\obj\\",
       "projectStyle": "PackageReference",
