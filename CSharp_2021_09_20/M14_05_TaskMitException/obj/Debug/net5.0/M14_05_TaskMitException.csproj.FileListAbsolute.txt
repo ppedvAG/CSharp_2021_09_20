@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\bin\Debug\net5.0\M14_05_TaskMitException.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\bin\Debug\net5.0\M14_05_TaskMitException.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\bin\Debug\net5.0\M14_05_TaskMitException.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\bin\Debug\net5.0\M14_05_TaskMitException.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\bin\Debug\net5.0\M14_05_TaskMitException.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\bin\Debug\net5.0\ref\M14_05_TaskMitException.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\bin\Debug\net5.0\M14_05_TaskMitException.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\M14_05_TaskMitException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\M14_05_TaskMitException.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\M14_05_TaskMitException.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\M14_05_TaskMitException.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\M14_05_TaskMitException.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\ref\M14_05_TaskMitException.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\M14_05_TaskMitException.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_05_TaskMitException\obj\Debug\net5.0\M14_05_TaskMitException.genruntimeconfig.cache

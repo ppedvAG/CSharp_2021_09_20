@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\bin\Debug\net5.0\M14_07_ContinueSampleWithParams.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\bin\Debug\net5.0\M14_07_ContinueSampleWithParams.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\bin\Debug\net5.0\M14_07_ContinueSampleWithParams.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\bin\Debug\net5.0\M14_07_ContinueSampleWithParams.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\bin\Debug\net5.0\M14_07_ContinueSampleWithParams.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\bin\Debug\net5.0\ref\M14_07_ContinueSampleWithParams.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\bin\Debug\net5.0\M14_07_ContinueSampleWithParams.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\M14_07_ContinueSampleWithParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\M14_07_ContinueSampleWithParams.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\M14_07_ContinueSampleWithParams.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\M14_07_ContinueSampleWithParams.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\M14_07_ContinueSampleWithParams.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\ref\M14_07_ContinueSampleWithParams.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\M14_07_ContinueSampleWithParams.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_07_ContinueSampleWithParams\obj\Debug\net5.0\M14_07_ContinueSampleWithParams.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\bin\Debug\net5.0\M013_10_Mutext_ProgrammInstance.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\bin\Debug\net5.0\M013_10_Mutext_ProgrammInstance.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\bin\Debug\net5.0\M013_10_Mutext_ProgrammInstance.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\bin\Debug\net5.0\M013_10_Mutext_ProgrammInstance.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\bin\Debug\net5.0\M013_10_Mutext_ProgrammInstance.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\bin\Debug\net5.0\ref\M013_10_Mutext_ProgrammInstance.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\bin\Debug\net5.0\M013_10_Mutext_ProgrammInstance.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\M013_10_Mutext_ProgrammInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\M013_10_Mutext_ProgrammInstance.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\M013_10_Mutext_ProgrammInstance.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\M013_10_Mutext_ProgrammInstance.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\M013_10_Mutext_ProgrammInstance.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\ref\M013_10_Mutext_ProgrammInstance.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\M013_10_Mutext_ProgrammInstance.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_10_Mutext_ProgrammInstance\obj\Debug\net5.0\M013_10_Mutext_ProgrammInstance.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\bin\Debug\net5.0\M14_09_AyncAwaitSample.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\bin\Debug\net5.0\M14_09_AyncAwaitSample.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\bin\Debug\net5.0\M14_09_AyncAwaitSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\bin\Debug\net5.0\M14_09_AyncAwaitSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\bin\Debug\net5.0\M14_09_AyncAwaitSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\bin\Debug\net5.0\ref\M14_09_AyncAwaitSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\bin\Debug\net5.0\M14_09_AyncAwaitSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\M14_09_AyncAwaitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\M14_09_AyncAwaitSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\M14_09_AyncAwaitSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\M14_09_AyncAwaitSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\M14_09_AyncAwaitSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\ref\M14_09_AyncAwaitSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\M14_09_AyncAwaitSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_09_AyncAwaitSample\obj\Debug\net5.0\M14_09_AyncAwaitSample.genruntimeconfig.cache

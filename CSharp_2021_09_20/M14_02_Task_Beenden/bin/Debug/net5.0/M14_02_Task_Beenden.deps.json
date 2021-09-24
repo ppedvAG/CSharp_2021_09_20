@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M14_02_Task_Beenden/1.0.0": {
+        "runtime": {
+          "M14_02_Task_Beenden.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M14_02_Task_Beenden/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
