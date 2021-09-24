@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\bin\Debug\net5.0\M15_01_HelloGeneric.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\bin\Debug\net5.0\M15_01_HelloGeneric.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\bin\Debug\net5.0\M15_01_HelloGeneric.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\bin\Debug\net5.0\M15_01_HelloGeneric.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\bin\Debug\net5.0\M15_01_HelloGeneric.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\bin\Debug\net5.0\ref\M15_01_HelloGeneric.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\bin\Debug\net5.0\M15_01_HelloGeneric.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\M15_01_HelloGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\M15_01_HelloGeneric.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\M15_01_HelloGeneric.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\M15_01_HelloGeneric.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\M15_01_HelloGeneric.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\ref\M15_01_HelloGeneric.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\M15_01_HelloGeneric.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M15_01_HelloGeneric\obj\Debug\net5.0\M15_01_HelloGeneric.genruntimeconfig.cache

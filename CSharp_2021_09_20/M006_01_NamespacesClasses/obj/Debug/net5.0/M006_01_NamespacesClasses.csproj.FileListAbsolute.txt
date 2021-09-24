@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\ref\M006_01_NamespacesClasses.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.pdb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_01_NamespacesClasses\obj\Debug\net5.0\M006_01_NamespacesClasses.csproj.AssemblyReference.cache

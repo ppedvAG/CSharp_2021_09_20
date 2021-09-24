@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid1.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid1.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid1.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid1.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid1.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid1.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid1.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid1.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid1.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid1.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid1.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid1.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid1\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid1.genruntimeconfig.cache

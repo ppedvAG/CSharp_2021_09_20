@@ -38,7 +38,6 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_2
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\HalloAsync\HalloAsync\bin\Debug\HalloAsync.exe.config
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\HalloAsync\HalloAsync\bin\Debug\HalloAsync.exe
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\HalloAsync\HalloAsync\bin\Debug\HalloAsync.pdb
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\HalloAsync\HalloAsync\obj\Debug\HalloAsync.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\HalloAsync\HalloAsync\obj\Debug\HalloAsync.Form1.resources
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\HalloAsync\HalloAsync\obj\Debug\HalloAsync.Properties.Resources.resources
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\HalloAsync\HalloAsync\obj\Debug\HalloAsync.csproj.GenerateResource.cache

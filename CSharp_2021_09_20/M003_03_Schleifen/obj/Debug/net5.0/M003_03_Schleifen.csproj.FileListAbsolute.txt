@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debu
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\ref\M003_03_Schleifen.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.pdb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M003_03_Schleifen\obj\Debug\net5.0\M003_03_Schleifen.csproj.AssemblyReference.cache

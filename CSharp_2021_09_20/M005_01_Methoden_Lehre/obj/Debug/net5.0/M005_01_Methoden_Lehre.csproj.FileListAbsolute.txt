@@ -13,4 +13,3 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M005_01_Methoden_Lehre\obj
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M005_01_Methoden_Lehre\obj\Debug\net5.0\ref\M005_01_Methoden_Lehre.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M005_01_Methoden_Lehre\obj\Debug\net5.0\M005_01_Methoden_Lehre.pdb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M005_01_Methoden_Lehre\obj\Debug\net5.0\M005_01_Methoden_Lehre.genruntimeconfig.cache
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M005_01_Methoden_Lehre\obj\Debug\net5.0\M005_01_Methoden_Lehre.csproj.AssemblyReference.cache

@@ -82,7 +82,6 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo\bin\Debug\net5.0\StringBuilderBenchmarkDemo.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo\bin\Debug\net5.0\ref\StringBuilderBenchmarkDemo.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo\bin\Debug\net5.0\StringBuilderBenchmarkDemo.pdb
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.AssemblyInfo.cs

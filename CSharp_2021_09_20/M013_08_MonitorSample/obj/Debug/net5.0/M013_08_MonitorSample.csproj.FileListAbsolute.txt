@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\bin\Debug\net5.0\M013_08_MonitorSample.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\bin\Debug\net5.0\M013_08_MonitorSample.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\bin\Debug\net5.0\M013_08_MonitorSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\bin\Debug\net5.0\M013_08_MonitorSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\bin\Debug\net5.0\M013_08_MonitorSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\bin\Debug\net5.0\ref\M013_08_MonitorSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\bin\Debug\net5.0\M013_08_MonitorSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\M013_08_MonitorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\M013_08_MonitorSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\M013_08_MonitorSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\M013_08_MonitorSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\M013_08_MonitorSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\ref\M013_08_MonitorSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\M013_08_MonitorSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_08_MonitorSample\obj\Debug\net5.0\M013_08_MonitorSample.genruntimeconfig.cache

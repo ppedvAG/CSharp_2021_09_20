@@ -1,0 +1,4 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_03_Solid_Dependency_Inversion\obj\Debug\net5.0\M010_03_Solid_Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_03_Solid_Dependency_Inversion\obj\Debug\net5.0\M010_03_Solid_Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_03_Solid_Dependency_Inversion\obj\Debug\net5.0\M010_03_Solid_Dependency_Inversion.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_03_Solid_Dependency_Inversion\obj\Debug\net5.0\M010_03_Solid_Dependency_Inversion.csproj.CoreCompileInputs.cache

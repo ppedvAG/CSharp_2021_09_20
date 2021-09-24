@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\bin\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\bin\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\bin\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\bin\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\bin\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\bin\Debug\net5.0\ref\M010_02_Solid_OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\bin\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\ref\M010_02_Solid_OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M010_02_Solid_OpenClosePrinzip\obj\Debug\net5.0\M010_02_Solid_OpenClosePrinzip.genruntimeconfig.cache

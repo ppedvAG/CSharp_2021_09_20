@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\bin\Deb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\bin\Debug\net5.0\M009_02_LinqLambda.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\bin\Debug\net5.0\ref\M009_02_LinqLambda.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\bin\Debug\net5.0\M009_02_LinqLambda.pdb
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\obj\Debug\net5.0\M009_02_LinqLambda.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\obj\Debug\net5.0\M009_02_LinqLambda.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\obj\Debug\net5.0\M009_02_LinqLambda.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M009_02_LinqLambda\obj\Debug\net5.0\M009_02_LinqLambda.AssemblyInfo.cs

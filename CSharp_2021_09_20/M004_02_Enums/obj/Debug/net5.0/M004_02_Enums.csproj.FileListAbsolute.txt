@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\bin\Debug\ne
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\bin\Debug\net5.0\M004_02_Enums.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\bin\Debug\net5.0\ref\M004_02_Enums.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\bin\Debug\net5.0\M004_02_Enums.pdb
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\obj\Debug\net5.0\M004_02_Enums.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\obj\Debug\net5.0\M004_02_Enums.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\obj\Debug\net5.0\M004_02_Enums.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M004_02_Enums\obj\Debug\net5.0\M004_02_Enums.AssemblyInfo.cs

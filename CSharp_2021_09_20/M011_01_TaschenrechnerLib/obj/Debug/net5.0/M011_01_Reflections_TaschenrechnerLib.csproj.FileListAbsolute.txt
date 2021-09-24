@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerConsole\bin\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerConsole\bin\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerConsole\bin\Debug\net5.0\ref\M011_01_Reflections_TaschenrechnerLib.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerConsole\bin\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\ref\M011_01_Reflections_TaschenrechnerLib.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M011_01_TaschenrechnerLib\obj\Debug\net5.0\M011_01_Reflections_TaschenrechnerLib.pdb

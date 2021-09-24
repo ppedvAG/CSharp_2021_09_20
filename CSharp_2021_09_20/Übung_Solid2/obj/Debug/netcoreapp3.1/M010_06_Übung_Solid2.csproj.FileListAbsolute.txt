@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid2.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid2.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid2.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid2.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid2.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\bin\Debug\netcoreapp3.1\M010_06_Übung_Solid2.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid2.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid2.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid2.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid2.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid2.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid2.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\Übung_Solid2\obj\Debug\netcoreapp3.1\M010_06_Übung_Solid2.genruntimeconfig.cache

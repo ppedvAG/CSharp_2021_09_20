@@ -130,16 +130,16 @@ Sprach-Entwicklung von C-Sharp
 - [ ] C# 7.0 -> 9.0 
 - [x] Solid (Labs)
 - [x] Benchmark StringBuilder vs +-Operator (bei strings)
-- [ ] Reflections 
-- [ ] Plugin-Pattern 
+- [x] Reflections 
+- [x] Plugin-Pattern 
 
 [Freitag]
 4-5 Stunden: 
-- [ ] Events / EventHandler/ Actions / Func
-- [ ] Threading
-- [ ] TPL
-- [ ] async / await
-- [ ] Generics
+- [x] Events / EventHandler/ Actions / Func
+- [x] Threading
+- [x] TPL
+- [x] async / await
+- [x] Generics
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional) 45 Minuten

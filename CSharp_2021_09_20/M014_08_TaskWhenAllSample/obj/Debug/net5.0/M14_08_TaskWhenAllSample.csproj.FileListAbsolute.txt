@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\bin\Debug\net5.0\M14_08_TaskWhenAllSample.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\bin\Debug\net5.0\M14_08_TaskWhenAllSample.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\bin\Debug\net5.0\M14_08_TaskWhenAllSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\bin\Debug\net5.0\M14_08_TaskWhenAllSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\bin\Debug\net5.0\M14_08_TaskWhenAllSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\bin\Debug\net5.0\ref\M14_08_TaskWhenAllSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\bin\Debug\net5.0\M14_08_TaskWhenAllSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\M14_08_TaskWhenAllSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\M14_08_TaskWhenAllSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\M14_08_TaskWhenAllSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\M14_08_TaskWhenAllSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\M14_08_TaskWhenAllSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\ref\M14_08_TaskWhenAllSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\M14_08_TaskWhenAllSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M014_08_TaskWhenAllSample\obj\Debug\net5.0\M14_08_TaskWhenAllSample.genruntimeconfig.cache

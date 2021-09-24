@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_02_DelegateAndActionW
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_02_DelegateAndActionWithCallback\obj\Debug\net5.0\ref\M012_02_DelegateAndActionWithCallback.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_02_DelegateAndActionWithCallback\obj\Debug\net5.0\M012_02_DelegateAndActionWithCallback.pdb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_02_DelegateAndActionWithCallback\obj\Debug\net5.0\M012_02_DelegateAndActionWithCallback.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_02_DelegateAndActionWithCallback\obj\Debug\net5.0\M012_02_DelegateAndActionWithCallback.csproj.AssemblyReference.cache

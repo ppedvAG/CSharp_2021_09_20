@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M010_03_Solid_Liskov_Substitution/1.0.0": {
+        "runtime": {
+          "M010_03_Solid_Liskov_Substitution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M010_03_Solid_Liskov_Substitution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

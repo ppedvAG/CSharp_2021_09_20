@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\bin\Deb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\bin\Debug\net5.0\M008_01_Interfaces.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\bin\Debug\net5.0\ref\M008_01_Interfaces.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\bin\Debug\net5.0\M008_01_Interfaces.pdb
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\obj\Debug\net5.0\M008_01_Interfaces.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\obj\Debug\net5.0\M008_01_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\obj\Debug\net5.0\M008_01_Interfaces.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_01_Interfaces\obj\Debug\net5.0\M008_01_Interfaces.AssemblyInfo.cs

@@ -76,7 +76,7 @@ namespace M010_03_Solid_Dependency_Inversion
         public string Model { get; set; } = "Polo";
     }
 
-    public class MockElectorCar 
+    //public class MockElectorCar 
 
     public class Car : ICar
     {

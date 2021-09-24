@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M010_06_Übung_Solid1/1.0.0": {
+        "runtime": {
+          "M010_06_Übung_Solid1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M010_06_Übung_Solid1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

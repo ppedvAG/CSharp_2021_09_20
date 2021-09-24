@@ -26,6 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\Agenda.md = ..\Agenda.md
 		..\CSHARP-CHEATSHEET.md = ..\CSHARP-CHEATSHEET.md
 		VS-SHORTCUTS.md = VS-SHORTCUTS.md
+		Übungen zu Themen.txt = Übungen zu Themen.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M004_01_Arrays", "M004_01_Arrays\M004_01_Arrays.csproj", "{54D45A14-78FF-403C-B5AC-F23E4C2EB346}"
@@ -135,6 +136,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenchmarkTestParallelForVsFor", "BenchmarkTestParallelForVsFor\BenchmarkTestParallelForVsFor.csproj", "{A6A030FC-6847-491B-9101-BD136D203FBF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloAsync", "HalloAsync\HalloAsync\HalloAsync.csproj", "{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M15_01_HelloGeneric", "M15_01_HelloGeneric\M15_01_HelloGeneric.csproj", "{4C335C20-0F6B-414C-9BF8-7FCE11F0B3B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M15_02_GenerictsWithConstraints", "M15_02_GenerictsWithConstraints\M15_02_GenerictsWithConstraints.csproj", "{88B55165-BF1F-49EC-B418-564D44AB43AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -390,6 +395,14 @@ Global
 		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8518674C-843F-4BCF-BAD3-3EAEB28E48EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C335C20-0F6B-414C-9BF8-7FCE11F0B3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C335C20-0F6B-414C-9BF8-7FCE11F0B3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C335C20-0F6B-414C-9BF8-7FCE11F0B3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C335C20-0F6B-414C-9BF8-7FCE11F0B3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B55165-BF1F-49EC-B418-564D44AB43AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B55165-BF1F-49EC-B418-564D44AB43AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B55165-BF1F-49EC-B418-564D44AB43AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B55165-BF1F-49EC-B418-564D44AB43AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

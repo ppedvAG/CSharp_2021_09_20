@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M011_01_Reflections_TaschenrechnerConsole/1.0.0": {
+        "runtime": {
+          "M011_01_Reflections_TaschenrechnerConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M011_01_Reflections_TaschenrechnerConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

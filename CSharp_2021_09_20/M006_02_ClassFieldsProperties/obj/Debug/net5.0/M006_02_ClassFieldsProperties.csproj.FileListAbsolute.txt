@@ -1,7 +1,4 @@
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\net5.0\M006_02_ClassFieldsProperties.exe
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\net5.0\M006_02_ClassFieldsProperties.deps.json
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\net5.0\M006_02_ClassFieldsProperties.runtimeconfig.json
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\net5.0\M006_02_ClassFieldsProperties.runtimeconfig.dev.json
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\net5.0\M006_02_ClassFieldsProperties.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\net5.0\ref\M006_02_ClassFieldsProperties.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\bin\Debug\net5.0\M006_02_ClassFieldsProperties.pdb
@@ -12,4 +9,4 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsPropert
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\net5.0\M006_02_ClassFieldsProperties.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\net5.0\ref\M006_02_ClassFieldsProperties.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\net5.0\M006_02_ClassFieldsProperties.pdb
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\net5.0\M006_02_ClassFieldsProperties.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M006_02_ClassFieldsProperties\obj\Debug\net5.0\M006_02_ClassFieldsProperties.csproj.AssemblyReference.cache

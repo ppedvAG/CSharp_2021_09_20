@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M007_05_ZugriffsmodifiziereLib/1.0.0": {
+        "runtime": {
+          "M007_05_ZugriffsmodifiziereLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M007_05_ZugriffsmodifiziereLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

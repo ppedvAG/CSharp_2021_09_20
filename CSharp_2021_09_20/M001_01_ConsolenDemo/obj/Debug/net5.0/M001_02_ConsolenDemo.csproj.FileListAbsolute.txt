@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\bin\Debug\net5.0\M001_02_ConsolenDemo.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\bin\Debug\net5.0\M001_02_ConsolenDemo.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\bin\Debug\net5.0\M001_02_ConsolenDemo.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\bin\Debug\net5.0\M001_02_ConsolenDemo.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\bin\Debug\net5.0\M001_02_ConsolenDemo.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\bin\Debug\net5.0\ref\M001_02_ConsolenDemo.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\bin\Debug\net5.0\M001_02_ConsolenDemo.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\ref\M001_02_ConsolenDemo.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M001_01_ConsolenDemo\obj\Debug\net5.0\M001_02_ConsolenDemo.genruntimeconfig.cache

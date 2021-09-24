@@ -1,0 +1,12 @@
+Fragen - Themen: 
+
+-> Werte und Referenztypen 
+
+-> OOP Grundlagen 
+  (abstrakt / virtual)
+
+-> Interface 
+
+-> Static - Methoden zu Klassen-Methoden
+
+-> Solid - Übung  

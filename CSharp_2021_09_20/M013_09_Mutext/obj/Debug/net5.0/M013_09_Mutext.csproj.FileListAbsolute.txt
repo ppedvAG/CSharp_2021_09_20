@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\bin\Debug\net5.0\M013_09_Mutext.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\bin\Debug\net5.0\M013_09_Mutext.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\bin\Debug\net5.0\M013_09_Mutext.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\bin\Debug\net5.0\M013_09_Mutext.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\bin\Debug\net5.0\M013_09_Mutext.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\bin\Debug\net5.0\ref\M013_09_Mutext.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\bin\Debug\net5.0\M013_09_Mutext.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\M013_09_Mutext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\M013_09_Mutext.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\M013_09_Mutext.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\M013_09_Mutext.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\M013_09_Mutext.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\ref\M013_09_Mutext.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\M013_09_Mutext.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_09_Mutext\obj\Debug\net5.0\M013_09_Mutext.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\bin\Debug\net5.0\M14_04_TaskMitParameter.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\bin\Debug\net5.0\M14_04_TaskMitParameter.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\bin\Debug\net5.0\M14_04_TaskMitParameter.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\bin\Debug\net5.0\M14_04_TaskMitParameter.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\bin\Debug\net5.0\M14_04_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\bin\Debug\net5.0\ref\M14_04_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\bin\Debug\net5.0\M14_04_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\M14_04_TaskMitParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\M14_04_TaskMitParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\M14_04_TaskMitParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\M14_04_TaskMitParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\M14_04_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\ref\M14_04_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\M14_04_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M14_04_TaskMitParameter\obj\Debug\net5.0\M14_04_TaskMitParameter.genruntimeconfig.cache

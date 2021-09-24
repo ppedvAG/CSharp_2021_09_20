@@ -1,4 +1,3 @@
-C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_02_Fuhrpark\obj\Debug\net5.0\M008_02_Fuhrpark.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_02_Fuhrpark\obj\Debug\net5.0\M008_02_Fuhrpark.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_02_Fuhrpark\obj\Debug\net5.0\M008_02_Fuhrpark.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M008_02_Fuhrpark\obj\Debug\net5.0\M008_02_Fuhrpark.AssemblyInfo.cs

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M009_01_Collections_WeiterStukturen/1.0.0": {
+        "runtime": {
+          "M009_01_Collections_WeiterStukturen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M009_01_Collections_WeiterStukturen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

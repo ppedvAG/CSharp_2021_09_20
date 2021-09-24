@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_03_abstract\obj\Debug
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_03_abstract\obj\Debug\net5.0\ref\M007_03_abstract.dll
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_03_abstract\obj\Debug\net5.0\M007_03_abstract.pdb
 C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_03_abstract\obj\Debug\net5.0\M007_03_abstract.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M007_03_abstract\obj\Debug\net5.0\M007_03_abstract.csproj.AssemblyReference.cache
