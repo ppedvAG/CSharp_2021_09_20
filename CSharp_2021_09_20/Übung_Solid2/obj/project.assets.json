@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Übung_Solid2\\Übung_Solid2.csproj",
-      "projectName": "Übung_Solid2",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Übung_Solid2\\Übung_Solid2.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Übung_Solid2\\M010_06_Übung_Solid2.csproj",
+      "projectName": "M010_06_Übung_Solid2",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Übung_Solid2\\M010_06_Übung_Solid2.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\Übung_Solid2\\obj\\",
       "projectStyle": "PackageReference",

@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M011_01_TaschenrechnerLib\\M011_01_TaschenrechnerLib.csproj",
-      "projectName": "M011_01_TaschenrechnerLib",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M011_01_TaschenrechnerLib\\M011_01_TaschenrechnerLib.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M011_01_TaschenrechnerLib\\M011_01_Reflections_TaschenrechnerLib.csproj",
+      "projectName": "M011_01_Reflections_TaschenrechnerLib",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M011_01_TaschenrechnerLib\\M011_01_Reflections_TaschenrechnerLib.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M011_01_TaschenrechnerLib\\obj\\",
       "projectStyle": "PackageReference",

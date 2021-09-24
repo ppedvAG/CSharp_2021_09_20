@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\bin\Debug\net5.0\M012_03_EventEventHandler.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\bin\Debug\net5.0\M012_03_EventEventHandler.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\bin\Debug\net5.0\M012_03_EventEventHandler.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\bin\Debug\net5.0\M012_03_EventEventHandler.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\bin\Debug\net5.0\M012_03_EventEventHandler.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\bin\Debug\net5.0\ref\M012_03_EventEventHandler.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\bin\Debug\net5.0\M012_03_EventEventHandler.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\M012_03_EventEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\M012_03_EventEventHandler.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\M012_03_EventEventHandler.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\M012_03_EventEventHandler.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\M012_03_EventEventHandler.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\ref\M012_03_EventEventHandler.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\M012_03_EventEventHandler.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M012_03_EventEventHandler\obj\Debug\net5.0\M012_03_EventEventHandler.genruntimeconfig.cache

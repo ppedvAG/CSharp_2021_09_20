@@ -135,11 +135,12 @@ Sprach-Entwicklung von C-Sharp
 
 [Freitag]
 4-5 Stunden: 
+- [ ] Events / EventHandler/ Actions / Func
 - [ ] Threading
 - [ ] TPL
 - [ ] async / await
 - [ ] Generics
-- [ ] Events / EventHandler/ Actions / Func
+
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional) 45 Minuten
 - [ ] Dateien lesen/schreiben [Link]
@@ -169,6 +170,10 @@ Sprach-Entwicklung von C-Sharp
 
 Fragen:
 [x] BitFelder via Schleife auslesen oder intialisieren -> siehe Enum-Beispiele
+
+Übungen:
+[ ] - Solid
+[ ] - Interfaces OOP 
 
 
 

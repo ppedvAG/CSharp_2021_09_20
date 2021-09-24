@@ -80,13 +80,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M010_03_Solid_Dependency_In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M010_05_SOLID_InterfaceSegregationPrincip", "M010_05_SOLID_InterfaceSegregationPrincip\M010_05_SOLID_InterfaceSegregationPrincip.csproj", "{8FBFAD41-6A67-4AD4-8F65-C702F2AB3E54}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M011_01_TaschenrechnerLib", "M011_01_TaschenrechnerLib\M011_01_TaschenrechnerLib.csproj", "{653257B3-09EC-42EB-8510-6D88AF6CFB49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M011_01_Reflections_TaschenrechnerLib", "M011_01_TaschenrechnerLib\M011_01_Reflections_TaschenrechnerLib.csproj", "{653257B3-09EC-42EB-8510-6D88AF6CFB49}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M011_01_TaschenrechnerConsole", "M011_01_TaschenrechnerConsole\M011_01_TaschenrechnerConsole.csproj", "{F0B113F6-5E37-4023-BC6C-CB682B925EB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M011_01_Reflections_TaschenrechnerConsole", "M011_01_TaschenrechnerConsole\M011_01_Reflections_TaschenrechnerConsole.csproj", "{F0B113F6-5E37-4023-BC6C-CB682B925EB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Übung_Solid1", "Übung_Solid1\Übung_Solid1.csproj", "{466DC550-B2CD-4CAD-9F8B-9F485907C770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M010_06_Übung_Solid1", "Übung_Solid1\M010_06_Übung_Solid1.csproj", "{466DC550-B2CD-4CAD-9F8B-9F485907C770}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Übung_Solid2", "Übung_Solid2\Übung_Solid2.csproj", "{38963251-634F-4FEB-99C6-E4B1674F7ABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M010_06_Übung_Solid2", "Übung_Solid2\M010_06_Übung_Solid2.csproj", "{38963251-634F-4FEB-99C6-E4B1674F7ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M012_01_DelegatesActionsFuncSamples", "M012_01_DelegatesActionsFuncSamples\M012_01_DelegatesActionsFuncSamples.csproj", "{AD6AE5DF-C828-496D-B4DF-A63EC8E353A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M012_02_DelegateAndActionWithCallback", "M012_02_DelegateAndActionWithCallback\M012_02_DelegateAndActionWithCallback.csproj", "{40AB7E8E-9552-471E-896F-A63887CD5F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M012_03_EventEventHandler", "M012_03_EventEventHandler\M012_03_EventEventHandler.csproj", "{2F79F9DA-2C62-4B46-84A1-3B05A162B8A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -246,6 +252,18 @@ Global
 		{38963251-634F-4FEB-99C6-E4B1674F7ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38963251-634F-4FEB-99C6-E4B1674F7ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38963251-634F-4FEB-99C6-E4B1674F7ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6AE5DF-C828-496D-B4DF-A63EC8E353A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6AE5DF-C828-496D-B4DF-A63EC8E353A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6AE5DF-C828-496D-B4DF-A63EC8E353A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6AE5DF-C828-496D-B4DF-A63EC8E353A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AB7E8E-9552-471E-896F-A63887CD5F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB7E8E-9552-471E-896F-A63887CD5F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB7E8E-9552-471E-896F-A63887CD5F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AB7E8E-9552-471E-896F-A63887CD5F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F79F9DA-2C62-4B46-84A1-3B05A162B8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F79F9DA-2C62-4B46-84A1-3B05A162B8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F79F9DA-2C62-4B46-84A1-3B05A162B8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F79F9DA-2C62-4B46-84A1-3B05A162B8A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

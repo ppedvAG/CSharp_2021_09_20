@@ -29,11 +29,11 @@ namespace WinFormsDemoApp
         {
             //label1.Text = "Otto Walkes ist lustig";
 
-            using (HttpClient client = new HttpClient())
-            {
-                Task task =  client.GetAsync("https:localhost:5001/PersonService");
-                task.Wait();
-            } // HttpClient wird hier bereinigt 
+            //using (HttpClient client = new HttpClient())
+            //{
+            //    Task task =  client.GetAsync("https:localhost:5001/PersonService");
+            //    task.Wait();
+            //} // HttpClient wird hier bereinigt 
         }
     }
 }
