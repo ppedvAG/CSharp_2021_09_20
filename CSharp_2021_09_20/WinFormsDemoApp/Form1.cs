@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Net.Http;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -34,6 +35,13 @@ namespace WinFormsDemoApp
             //    Task task =  client.GetAsync("https:localhost:5001/PersonService");
             //    task.Wait();
             //} // HttpClient wird hier bereinigt 
+
+
+            for (int i = 0; i < 100; i++)
+            {
+                progressBar1.Value = i;
+                Thread.Sleep(200);
+            }
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\bin\Debug\net5.0\M013_03_ThreadBeenden.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\bin\Debug\net5.0\M013_03_ThreadBeenden.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\bin\Debug\net5.0\M013_03_ThreadBeenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\bin\Debug\net5.0\M013_03_ThreadBeenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\bin\Debug\net5.0\M013_03_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\bin\Debug\net5.0\ref\M013_03_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\bin\Debug\net5.0\M013_03_ThreadBeenden.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\M013_03_ThreadBeenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\M013_03_ThreadBeenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\M013_03_ThreadBeenden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\M013_03_ThreadBeenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\M013_03_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\ref\M013_03_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\M013_03_ThreadBeenden.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_03_ThreadBeenden\obj\Debug\net5.0\M013_03_ThreadBeenden.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\bin\Debug\net5.0\M013_07_LockSample.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\bin\Debug\net5.0\M013_07_LockSample.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\bin\Debug\net5.0\M013_07_LockSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\bin\Debug\net5.0\M013_07_LockSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\bin\Debug\net5.0\M013_07_LockSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\bin\Debug\net5.0\ref\M013_07_LockSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\bin\Debug\net5.0\M013_07_LockSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\M013_07_LockSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\M013_07_LockSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\M013_07_LockSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\M013_07_LockSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\M013_07_LockSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\ref\M013_07_LockSample.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\M013_07_LockSample.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M013_07_LockSample\obj\Debug\net5.0\M013_07_LockSample.genruntimeconfig.cache

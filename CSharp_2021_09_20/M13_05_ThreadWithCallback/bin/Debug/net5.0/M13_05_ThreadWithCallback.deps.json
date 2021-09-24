@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M13_05_ThreadWithCallback/1.0.0": {
+        "runtime": {
+          "M13_05_ThreadWithCallback.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M13_05_ThreadWithCallback/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
