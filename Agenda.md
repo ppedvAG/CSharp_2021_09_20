@@ -110,15 +110,6 @@ Optinaler Tag: 27.09.2021
 - [x] Linq / Lambda 
 
 
-
-
-
-
-
-
-
-
-
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
 - [ ] Klassendiagramme
 - [ ] Deployment
