@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zW+QxDy52YGnLZvGqwuRjuxXJaWsv0m25os/dcmpOjQ1dgRNjaaLj2IztsDVm+va4ZVyNtuv91N0w1qSk8r6w==",
+  "dgSpecHash": "e+uu5n4f/hl/B2G2KsOfS1vCCZ1Oy72NTCtgqMvYc0aPTdPA6ff8nN7SZZ8wBdnnQv5tveYg3mb1HvwAKZb/IQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M010_03_Solid_Dependency_Inversion\\M010_03_Solid_Dependency_Inversion.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M010_03_Solid_Dependency_Inversion\\M010_04_Solid_Dependency_Inversion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

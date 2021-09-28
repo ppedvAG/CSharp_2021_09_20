@@ -19,8 +19,13 @@ namespace Solid_Übung3
         //}
     }
 
+    public interface IPoint
+    {
 
-    class Point 
+    }
+
+
+    class Point // : IPoint 
     {
         // Constructor:
         public Point(int x, int y)

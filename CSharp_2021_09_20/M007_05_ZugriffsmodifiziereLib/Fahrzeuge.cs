@@ -48,4 +48,13 @@ namespace M007_05_ZugriffsmodifiziereLib
             
         }
     }
+
+
+    class ABC //Internal
+    {
+        public void Hello()
+        {
+
+        }
+    }
 }

@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\M16_Serialisierung.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\M16_Serialisierung.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\M16_Serialisierung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\M16_Serialisierung.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\M16_Serialisierung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\ref\M16_Serialisierung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\M16_Serialisierung.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\ref\M16_Serialisierung.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M016_Serialisierung\obj\Debug\net5.0\M16_Serialisierung.csproj.CopyComplete

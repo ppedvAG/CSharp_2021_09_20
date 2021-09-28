@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\bin\Debug\net5.0\M18_Operatoren.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\bin\Debug\net5.0\M18_Operatoren.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\bin\Debug\net5.0\M18_Operatoren.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\bin\Debug\net5.0\M18_Operatoren.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\bin\Debug\net5.0\M18_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\bin\Debug\net5.0\ref\M18_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\bin\Debug\net5.0\M18_Operatoren.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\M18_Operatoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\M18_Operatoren.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\M18_Operatoren.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\M18_Operatoren.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\M18_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\ref\M18_Operatoren.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\M18_Operatoren.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M18_Operatoren\obj\Debug\net5.0\M18_Operatoren.genruntimeconfig.cache

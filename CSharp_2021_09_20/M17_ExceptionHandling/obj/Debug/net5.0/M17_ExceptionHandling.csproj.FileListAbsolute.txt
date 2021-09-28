@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\bin\Debug\net5.0\M17_ExceptionHandling.exe
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\bin\Debug\net5.0\M17_ExceptionHandling.deps.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\bin\Debug\net5.0\M17_ExceptionHandling.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\bin\Debug\net5.0\M17_ExceptionHandling.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\bin\Debug\net5.0\M17_ExceptionHandling.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\bin\Debug\net5.0\ref\M17_ExceptionHandling.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\bin\Debug\net5.0\M17_ExceptionHandling.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\M17_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\M17_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\M17_ExceptionHandling.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\M17_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\M17_ExceptionHandling.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\ref\M17_ExceptionHandling.dll
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\M17_ExceptionHandling.pdb
+C:\Aktueller Kurs\CSharp_2021_09_20\CSharp_2021_09_20\M17_ExceptionHandling\obj\Debug\net5.0\M17_ExceptionHandling.genruntimeconfig.cache

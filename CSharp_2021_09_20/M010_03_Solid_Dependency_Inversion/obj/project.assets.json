@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M010_03_Solid_Dependency_Inversion\\M010_03_Solid_Dependency_Inversion.csproj",
-      "projectName": "M010_03_Solid_Dependency_Inversion",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M010_03_Solid_Dependency_Inversion\\M010_03_Solid_Dependency_Inversion.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M010_03_Solid_Dependency_Inversion\\M010_04_Solid_Dependency_Inversion.csproj",
+      "projectName": "M010_04_Solid_Dependency_Inversion",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M010_03_Solid_Dependency_Inversion\\M010_04_Solid_Dependency_Inversion.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_2021_09_20\\CSharp_2021_09_20\\M010_03_Solid_Dependency_Inversion\\obj\\",
       "projectStyle": "PackageReference",

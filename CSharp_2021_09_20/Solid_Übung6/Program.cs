@@ -10,9 +10,19 @@ namespace Solid_Übung2
             Console.WriteLine("Hello World!");
         }
     }
+
+    public interface IPrinter
+    {
+        void Print(string printContent);
+        void Scan(string ScanContent);
+        void Fax(string FaxContent);
+
+        void PrintDuplex(string PrintDuplexContent);
+
+    }
     
     //AUFGABE -> Extrahiere aus den beiden Klassen ein gemeinsames Interface
-    public class HPLaserJetPrinter
+    public class HPLaserJetPrinter : IPrinter
     {
         public void Print(string PrintContent)
         {
@@ -33,8 +43,7 @@ namespace Solid_Übung2
     }
 
 
-
-    class LiquidInkjetPrinter 
+    class LiquidInkjetPrinter : IPrinter
     {
         public void Print(string PrintContent)
         {

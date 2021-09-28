@@ -26,4 +26,9 @@ namespace M007_05_Zugriffsmodifizierer
             //Einzige was aussen vor ist -> Private 
         }
     }
+
+    class DEF
+    {
+
+    }
 }

@@ -134,11 +134,11 @@ Sprach-Entwicklung von C-Sharp
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional) 45 Minuten
-- [ ] Dateien lesen/schreiben [Link]
-- [ ] Serialisierung Binär 
-- [ ] JSON [Link]
-- [ ] XML [Link]
-- [ ] CSV -> [Link] - [ ] Erweiterungsmethoden  
+- [x] Dateien lesen/schreiben [Link]
+- [x] Serialisierung Binär 
+- [x] JSON [Link]
+- [x] XML [Link]
+- [x] CSV -> [Link] - [ ] Erweiterungsmethoden  
 - [ ] Fragen [Link]
 
 
